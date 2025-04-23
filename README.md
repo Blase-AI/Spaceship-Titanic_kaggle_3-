@@ -19,6 +19,7 @@ I ranked in the top **5%** of the leaderboard, achieving a significant performan
 - **Python**
 - **Pandas**, **NumPy** for data manipulation
 - **Seaborn**, **Matplotlib** for visualization
+- **sklearn**
 - **LightGBM** for classification
 - **SHAP** for model interpretability
 
